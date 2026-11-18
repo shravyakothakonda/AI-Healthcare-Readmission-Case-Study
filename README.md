@@ -34,3 +34,13 @@ AI can support healthcare teams by identifying high-risk patients and helping pr
 
 Author
 Shravya Kothakonda Pharm.D. | M.S. Healthcare Informatics Candidate
+
+Project Visuals
+AI Readmission Workflow
+Screenshots/AI_Readmission_Workflow.png
+
+Readmission Risk Factors
+Screenshots/Readmission_Risk_Factors.png
+
+Benefits of AI in Healthcare
+Screenshots/AI_Healthcare_Benefits.png
